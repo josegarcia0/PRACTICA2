@@ -1,10 +1,6 @@
 # PRACTICA2
 # Modelado de Amenazas: Sistema de Autenticación y API de Usuarios
 
-**Fecha:** 2026-08-31
-**Versión:** 1.0
-
-
 ## 1. Diagrama de Flujo de Datos (DFD) con Mermaid.js
 
 A continuación se muestra la arquitectura lógica del sistema, los flujos de datos y las fronteras de confianza (Trust Boundaries) que separan las zonas seguras de las inseguras.
